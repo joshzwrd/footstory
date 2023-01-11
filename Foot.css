@@ -1,0 +1,16 @@
+body{
+    background-image: url(/images/stade.jpg);
+    background-size: cover;
+}
+.navbar .bio{
+    text-decoration:none;
+    list-style:none;
+    display: inline-block;
+}
+.logo{
+    height: 40px;
+}
+.logopays{
+    height: 35px;
+    width: 40px;
+}
